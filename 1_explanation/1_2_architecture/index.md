@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: explanation
 title: architecture
-nav_order: 2
 permalink: /explanation/architecture
+parent: explanation
+nav_order: 2
 ---
 
 (content coming soon)

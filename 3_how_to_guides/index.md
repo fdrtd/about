@@ -1,9 +1,9 @@
 ---
 layout: default
 title: how-to guides
-nav_order: 3
-has_children: true
 permalink: /how_to
+has_children: true
+nav_order: 3
 ---
 
 (content coming soon)

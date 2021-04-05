@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: how-to guides
 title: upload data
-nav_order: 7
 permalink: /how_to/upload_data
+parent: how-to guides
+nav_order: 7
 ---
 
 (content coming soon)

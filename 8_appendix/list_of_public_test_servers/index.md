@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: other references
 title: list of public test servers
-permalink: /other_references/list_of_public_test_servers
+permalink: /appendix/list_of_public_test_servers
+parent: appendix
 ---
 
 (content coming soon)

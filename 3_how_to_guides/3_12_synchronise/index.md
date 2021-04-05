@@ -1,9 +1,9 @@
 ---
 layout: default
-title: invite others
-permalink: /how_to/invite_others
+title: synchronisation
+permalink: /how_to/sync
 parent: how-to guides
-nav_order: 6
+nav_order: 12
 ---
 
 (content coming soon)

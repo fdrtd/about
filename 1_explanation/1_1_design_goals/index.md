@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: explanation
 title: design goals
-nav_order: 1
 permalink: /explanation/design_goals
+parent: explanation
+nav_order: 1
 ---
 
 

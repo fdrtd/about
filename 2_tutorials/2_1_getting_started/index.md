@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: tutorials
 title: getting started
-nav_order: 1
 permalink: /tutorials/getting_started
+parent: tutorials
+nav_order: 1
 ---
 
 (content coming soon)

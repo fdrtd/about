@@ -1,9 +1,9 @@
 ---
 layout: default
-title: invite others
-permalink: /how_to/invite_others
+title: create data
+permalink: /how_to/create_data
 parent: how-to guides
-nav_order: 6
+nav_order: 8
 ---
 
 (content coming soon)

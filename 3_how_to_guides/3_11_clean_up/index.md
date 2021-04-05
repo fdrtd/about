@@ -1,9 +1,9 @@
 ---
 layout: default
-title: invite others
-permalink: /how_to/invite_others
+title: clean up
+permalink: /how_to/clean_up
 parent: how-to guides
-nav_order: 6
+nav_order: 9
 ---
 
 (content coming soon)

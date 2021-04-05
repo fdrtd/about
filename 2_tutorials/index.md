@@ -1,9 +1,9 @@
 ---
 layout: default
 title: tutorials
-nav_order: 2
-has_children: true
 permalink: /tutorials
+has_children: true
+nav_order: 2
 ---
 
 (content coming soon)

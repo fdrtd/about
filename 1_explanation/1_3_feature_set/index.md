@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: explanation
 title: feature set
-nav_order: 3
 permalink: /explanation/feature_set
+parent: explanation
+nav_order: 3
 ---
 
 (content coming soon)

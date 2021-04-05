@@ -1,9 +1,9 @@
 ---
 layout: default
-parent: explanation
 title: typical setups
-nav_order: 4
 permalink: /explanation/typical_setups
+parent: explanation
+nav_order: 4
 ---
 
 (content coming soon)

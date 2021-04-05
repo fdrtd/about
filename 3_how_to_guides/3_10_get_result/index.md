@@ -1,9 +1,9 @@
 ---
 layout: default
-title: invite others
-permalink: /how_to/invite_others
+title: get results
+permalink: /how_to/get_results
 parent: how-to guides
-nav_order: 6
+nav_order: 8
 ---
 
 (content coming soon)

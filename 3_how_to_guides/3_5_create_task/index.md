@@ -1,9 +1,9 @@
 ---
 layout: default
-title: invite others
-permalink: /how_to/invite_others
+title: create task
+permalink: /how_to/create_task
 parent: how-to guides
-nav_order: 6
+nav_order: 5
 ---
 
 (content coming soon)
