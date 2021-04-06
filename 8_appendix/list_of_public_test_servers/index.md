@@ -29,4 +29,4 @@ parent: appendix
 **terms of use**
 
 * [LRZ acceptable use policy](https://doku.lrz.de/display/PUBLIC/Acceptable+Use+Policy)
-* [fdrtd acceptable use policy](/appendix/acceptable_use_policy)
+* [fdrtd acceptable use policy](/docs/appendix/acceptable_use_policy)
