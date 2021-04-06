@@ -11,7 +11,7 @@ the `fdrtd` software you agree to be bound by the following terms.
 the policy may change over time without prior notice.
 check back often.
 
-** acceptable use policy **
+**acceptable use policy**
 
 1. access to the public `fdrtd` test servers is logged.
    log data is stored and evaluated for debugging purposes
