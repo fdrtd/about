@@ -16,7 +16,7 @@ which is nothing but a lightweight client-side **API wrapper**.
 servers run an **API controller** which puts any requests on a **bus** to be served by **microservices**.
 the microservices also use the bus to communicate with each other.
 
-![figure 1](/assets/img/clientserver.png "figure 1 // client-server architecture")
+![figure 1](/docs/assets/img/client_server.png "figure 1 // client-server architecture")
 
 # flow of control and data
 
