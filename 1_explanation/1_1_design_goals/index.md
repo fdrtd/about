@@ -22,7 +22,7 @@ by avoiding data sharing in the first place.
 
 further reading:
 * [Maximize collaboration through secure data sharing](https://www.accenture.com/us-en/insights/digital/maximize-collaboration-secure-data-sharing): a report by Accenture
-* [UN Handbook onPrivacy-PreservingComputation Techniques](http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf): a report by the Privacy Preserving Techniques Task Team of the United Nations
+* [UN Handbook on Privacy-Preserving Computation Techniques](http://publications.officialstatistics.org/handbooks/privacy-preserving-techniques-handbook/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf): a report by the Privacy Preserving Techniques Task Team of the United Nations
 * [MPC alliance](https://www.mpcalliance.org/): an industry alliance of companies interested in secure multiparty computation
 
 

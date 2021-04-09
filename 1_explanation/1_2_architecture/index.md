@@ -6,4 +6,19 @@ parent: explanation
 nav_order: 2
 ---
 
-(content coming soon)
+# client-server architecture
+
+there is a strict separation between **clients** and **servers**.
+
+clients run the **business logic**. the business logic typically imports the `fdrtd` library,
+which is nothing but a lightweight client-side **API wrapper**.
+
+servers run an **API controller** which puts any requests on a **bus** to be served by **microservices**.
+the microservices also use the bus to communicate with each other.the
+
+see figure 1.
+
+![figure 1](clientserver.png "client-server architecture")
+
+# flow of control and data
+
