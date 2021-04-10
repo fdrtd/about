@@ -107,11 +107,10 @@ further reading:
   - **turn-key**: we aim to provide a turn-key solution that gets you up to speed within a single scrum sprint
   - **functionality**: we aim to provide wrappers for languages and databases as needed by the majority of users
 * **free and open source**
-  - **transparency**:
+  - **transparency**: users of `fdrtd` can have absolute peace of mind that their sensitive data is processed
+    in the exact way it should be.
   - **no barriers to entry**: we want every company, institution, and individual to be able to reap the benefits
     of privacy-preserving computation (read more about our motivation at [fdrtd.com](https://fdrtd.com))
 
 further reading:
 * [architecture](/docs/explanation/architecture)
-* [feature set](/docs/explanation/feature_set)
-* [typical setups](/docs/explanation/typical_setups)

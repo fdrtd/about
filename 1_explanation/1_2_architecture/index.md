@@ -16,7 +16,7 @@ which is nothing but a lightweight client-side **API wrapper**.
 servers run an **API controller** which puts any requests on a **bus** to be served by **microservices**.
 the microservices also use the bus to communicate with each other.
 
-![figure 1](/docs/assets/img/client_server.png "figure 1 // client-server architecture")
+![figure 1](/docs/assets/img/1_2_1_client_server.png "figure 1 // client-server architecture")
 
 
 # local, on premises, and in the cloud
@@ -39,7 +39,7 @@ this setting lends itself to large-scale production system and highly scalable I
 of course, any combination of clients and servers can be freely mixed and matched.
 the API interface guarantees full compatibility and interoperability.
 
-![figure 2](/docs/assets/img/local_onpremises_cloud.png "figure 2 // local, on premises, or in the cloud")
+![figure 2](/docs/assets/img/1_2_2_local_onpremises_cloud.png "figure 2 // local, on premises, or in the cloud")
 
 
 # one-way flow of data
@@ -53,7 +53,7 @@ data that has been made available on the server may be accessed in the clear by 
 however, data may never be downloaded by the client. it is forbidden by the API. instead, the client
 may download results of computations only.
 
-![figure 3](/docs/assets/img/one_way_flow_of_data.png "figure 3 // one-way flow of data")
+![figure 3](/docs/assets/img/1_2_3_one_way_flow_of_data.png "figure 3 // one-way flow of data")
 
 
 # distributed computing
@@ -65,6 +65,8 @@ there are microservices to do just that.
 these microservices implement **secure protocols** such as secure multiparty computation or
 homomorphic encryption. to do so, the communicate peer-to-peer with their sisters and brethren
 on the other servers.
+
+![figure 4](/docs/assets/img/1_2_4_distributed_computing.png "figure 3 // distributed computing")
 
 # flow of control
 
