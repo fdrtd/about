@@ -18,6 +18,7 @@ the microservices also use the bus to communicate with each other.
 
 ![figure 1](/docs/assets/img/client_server.png "figure 1 // client-server architecture")
 
+
 # local, on premises, and in the cloud
 
 the server is really only a collection of microservices and need not be a physical machine.
@@ -38,11 +39,39 @@ this setting lends itself to large-scale production system and highly scalable I
 of course, any combination of clients and servers can be freely mixed and matched.
 the API interface guarantees full compatibility and interoperability.
 
-![figure 2](/docs/assets/img/local_onpremises_cloud.png "figure 1 // client-server architecture")
+![figure 2](/docs/assets/img/local_onpremises_cloud.png "figure 2 // local, on premises, or in the cloud")
 
-# data flow
+
+# one-way flow of data
+
+clients may **push** data to the server (see [how to upload data to the server](/docs/how_to/upload_data)).
+alternatively, the client may tell the server to **pull** data from other sources such as a database
+(see [how to upload data to the server](/docs/how_to/upload_data)). in this way, data remains and is
+processed in the data center, which is preffered both for security and performance.
+
+data that has been made available on the server may be accessed in the clear by other microservices.
+however, data may never be downloaded by the client. it is forbidden by the API. instead, the client
+may download results of computations only.
+
+![figure 3](/docs/assets/img/one_way_flow_of_data.png "figure 3 // one-way flow of data")
+
 
 # distributed computing
 
+every party in distributed computing run their own server, databases, and other data sources.
+in this way, all of their data always remains in their own custody. as for joint computation,
+there are microservices to do just that.
+
+these microservices implement **secure protocols** such as secure multiparty computation or
+homomorphic encryption. to do so, the communicate peer-to-peer with their sisters and brethren
+on the other servers.
+
 # flow of control
+
+clients have full control over what data is processed and what joint computations are done.
+however, unlike servers, not every party need to run their own. there may be situations
+where one party (e.g. a researcher) will access multiple servers (of their collaborators)
+to perform a joint computation. without the need of their colleagues to be at the keyboard
+at the same time. this is also the most probably setting in IoT scenarios where coordination
+across thousands of devices is much easier with one central client sending requests to all.
 

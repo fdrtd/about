@@ -1,7 +1,7 @@
 ---
 layout: default
-title: create data
-permalink: /how_to/create_data
+title: import data
+permalink: /how_to/import_data
 parent: how-to guides
 nav_order: 8
 ---
