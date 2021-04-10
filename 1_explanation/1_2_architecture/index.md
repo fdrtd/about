@@ -66,7 +66,7 @@ these microservices implement **secure protocols** such as secure multiparty com
 homomorphic encryption. to do so, the communicate peer-to-peer with their sisters and brethren
 on the other servers.
 
-![figure 4](/docs/assets/img/1_2_4_distributed_computing.png "figure 3 // distributed computing")
+![figure 4](/docs/assets/img/1_2_4_distributed_computing.png "figure 4 // distributed computing")
 
 # flow of control
 
@@ -76,4 +76,6 @@ where one party (e.g. a researcher) will access multiple servers (of their colla
 to perform a joint computation. without the need of their colleagues to be at the keyboard
 at the same time. this is also the most probably setting in IoT scenarios where coordination
 across thousands of devices is much easier with one central client sending requests to all.
+
+![figure 5](/docs/assets/img/1_2_5_flow_of_control.png "figure 5 // flow of control")
 
