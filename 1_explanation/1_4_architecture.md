@@ -78,4 +78,3 @@ at the same time. this is also the most probably setting in IoT scenarios where 
 across thousands of devices is much easier with one central client sending requests to all.
 
 ![figure 5](/docs/assets/img/1_2_5_flow_of_control.png "figure 5 // flow of control")
-
