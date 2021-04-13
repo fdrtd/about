@@ -3,7 +3,7 @@ layout: default
 title: design goals
 permalink: /explanation/design_goals
 parent: explanation
-nav_order: 1
+nav_order: 3
 ---
 
 

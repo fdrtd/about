@@ -3,7 +3,7 @@ layout: default
 title: architecture
 permalink: /explanation/architecture
 parent: explanation
-nav_order: 2
+nav_order: 4
 ---
 
 # client-server architecture
@@ -71,9 +71,9 @@ on the other servers.
 # flow of control
 
 clients have full control over what data is processed and what joint computations are done.
-however, unlike servers, not every party need to run their own. there may be situations
+however, unlike servers, not every party needs to run their own. there may be situations
 where one party (e.g. a researcher) will access multiple servers (of their collaborators)
-to perform a joint computation. without the need of their colleagues to be at the keyboard
+to perform a joint computation, without the need of their colleagues to be at the keyboard
 at the same time. this is also the most probably setting in IoT scenarios where coordination
 across thousands of devices is much easier with one central client sending requests to all.
 
