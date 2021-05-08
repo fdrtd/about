@@ -22,9 +22,9 @@ parent: appendix
 * fdrtd-simon (SImple Multiparty computatiON)
 * fdrtd-sophie (Simple hOmomorPHIc Encryption)
 
-**compatible API versions**
+**compatible client versions**
 
-* versions 0.1.0, 0.1.1, 0.1.2, 0.1.3, 0.1.4, and 0.1.5 (auto detect)
+* versions 0.1.6+
 
 **terms of use**
 
