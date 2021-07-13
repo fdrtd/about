@@ -1,36 +1,37 @@
-**welcome**
+# fdrtd
 
-`fdrtd` is a modern framework for secure cloud computing
+`fdrtd` is a free and open source implementation of `federated secure computing`,
+a modern microservice architecture for privacy-preserving computation:
 
-**main features**
-
+- [x] multi-protocol technology platform (e.g. secure multipary computation)
 - [x] cryptography is offloaded to the server/cloud (separation of concerns)
-- [x] client-side business logic is simple to implement (no barriers to entry)
-- [x] based on lean microservices (no complex monolithic universality)
-- [x] runs virtually anywhere (compatibility and interoperability)
-- [x] open to 3rd party protocols and vendors (free OpenAPI 3.0 standard)
+- [x] client-side business logic is easy to implement (no barriers to entry)
+- [x] toolbox of specific microservices (no complex monolithic universality)
+- [x] runs in virtually any environment (compatibility and interoperability)
+- [x] OpenAPI 3.0 standard for 3rd party developers (plug & play extensions)
 
-**resources**
+## resources
 
-* non-technical information on [fdrtd.com](https://fdrtd.com)
-* technical documentation on [fdrtd.github.io/docs](https://fdrtd.github.io/docs)
-* interactive API reference on [fdrtd.github.io/api](https://fdrtd.github.io/api)
-* free and open source code on [github.com/fdrtd](https://github.com/fdrtd)
+* non-technical information: [www.fdrtd.com](https://www.fdrtd.com)
+* technical documentation: [www.fdrtd.com/docs](https://www.fdrtd.com/docs)
+* support by email: [support@fdrtd.com](mailto:support@fdrtd.com)
 
-**support**
+## repositories
 
-* by email: [support@fdrtd.com](mailto:support@fdrtd.com)
+### for client-side development
 
----
+* [client-python](https://github.com/fdrtd/client-python) - Python (`pip install fdrtd`)
 
-**this repository holds the technical documentation**
+* [client-R](https://github.com/fdrtd/client-R) - R
 
-![license](https://img.shields.io/github/license/fdrtd/api)
+### for server-side development
 
-![Lines of code](https://img.shields.io/tokei/lines/github/fdrtd/docs)
+* [server] (https://github.com/fdrtd/server) - the base server
 
-![GitHub last commit](https://img.shields.io/github/last-commit/fdrtd/docs)
+* [plugin_basics] (https://github.com/fdrtd/plugin_basics) - some helper microservices
 
-**usage**
+* [plugin_sync] (https://github.com/fdrtd/plugin_sync) - synchronization microservices
 
-browse to [fdrtd.github.io/docs](https://fdrtd.github.io/docs)
+### documentation
+
+* [website] (https://github.com/fdrtd/website) - non-technical information and technical documentation
