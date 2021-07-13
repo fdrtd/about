@@ -1,6 +1,6 @@
 # fdrtd
 
-`fdrtd` is a free and open source implementation of `federated secure computing`,
+`fdrtd` is a free and open source implementation of `federated secure computing`,\
 a modern microservice architecture for privacy-preserving computation:
 
 - [x] multi-protocol technology platform (e.g. secure multipary computation)
@@ -26,12 +26,12 @@ a modern microservice architecture for privacy-preserving computation:
 
 ### for server-side development
 
-* [server] (https://github.com/fdrtd/server) - the base server
+* [server](https://github.com/fdrtd/server) - the base server
 
-* [plugin_basics] (https://github.com/fdrtd/plugin_basics) - some helper microservices
+* [plugin_basics](https://github.com/fdrtd/plugin_basics) - some helper microservices
 
-* [plugin_sync] (https://github.com/fdrtd/plugin_sync) - synchronization microservices
+* [plugin_sync](https://github.com/fdrtd/plugin_sync) - synchronization microservices
 
 ### documentation
 
-* [website] (https://github.com/fdrtd/website) - non-technical information and technical documentation
+* [website](https://github.com/fdrtd/website) - non-technical information and technical documentation
